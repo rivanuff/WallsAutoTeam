@@ -8,4 +8,4 @@ This module automatically gets you into your preffered team in Hypixel's Walls g
 - /wat {color}: Sets the color the module will join for you.
 - /wat help: Displays information regarding the mod.
 
-Made by [River, a.k.a Rivanuff](https://rivanuff.com) inspired by [WallsAutoYellow by Fishie](https://www.chattriggers.com/modules/v/WallsAutoYellow)
+Inspired by [WallsAutoYellow by Fishie](https://www.chattriggers.com/modules/v/WallsAutoYellow)
