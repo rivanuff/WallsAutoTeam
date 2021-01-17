@@ -1,0 +1,7 @@
+{
+    "name": "WallsAutoTeam",
+	"creator": "Rivanuff",
+    "description": "This module automatically gets you into your preffered team in Hypixel's Walls gamemode.",
+    "version": "1.0.0",
+    "entry": "index.js"
+}
